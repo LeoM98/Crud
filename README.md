@@ -1,0 +1,2 @@
+# Crud
+Para la creación de esta aplicación es necesario trabajar con el framework funcional de Java llamado Spring, adicional, se estará trabajando en conjunto con el motor de bases de datos llamado Postgresql, el cual nos será de mucha ayuda a la hora de realizar nuestras consultas y creación de la base de datos a usar. Se recomienda el uso de un gestor de peticiones htpp como lo es postman o una herramienta llamada swagger que es usada para utilizades similares, esta herramienta, debe implementarse en nuestro proyecto como una dependencia
